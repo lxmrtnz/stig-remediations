@@ -1,1 +1,1 @@
-# stig-remediation
+# stig-remediations
